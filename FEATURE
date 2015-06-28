@@ -1,2 +1,3 @@
 A BIG NEW FEATURE!!
 FEATURE v2 FROM REMOTE REPO!!
+Some new feature inside the MASTER branch
